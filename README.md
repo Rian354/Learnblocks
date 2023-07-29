@@ -2,6 +2,12 @@
 Backend by: Rian A.
 Frontend by: Jack H. and Ethan P.
 UI/UX and design by: Carrii Z.
+Springboot Java Backend
+ReactJS Frontend
+MySQL Database
+Custom Blockchain
+
+
 Introduction
 Learnblock is a revolutionary tutoring platform that leverages the power of blockchain technology to ensure secure credentials and verified teachers. This platform was developed for the Youth Code Foundation Hackathon as our submission. Our goal is to create a transparent and trustworthy environment where students can easily find qualified tutors and teachers can showcase their expertise without the need for traditional third-party verification methods.
 
