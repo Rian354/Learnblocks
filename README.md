@@ -12,12 +12,12 @@ Transaction Based Credentials: Teachers can input their qualifications, certific
 
 Tutor Search and Matchmaking: Students can easily search for tutors based on subjects, expertise, and availability. Our platform employs advanced algorithms to match students with the most suitable tutors, enhancing the learning experience.
 
-Benefits of TutorChain
+Benefits of LearnBlock
 Transparency and Trust: With blockchain, all teacher credentials and reviews are immutable, transparent, and traceable, reducing the risk of fraudulent activities.
 
-Verified Teachers: TutorChain's verification process guarantees that only qualified and trustworthy tutors are available on the platform, maintaining a high standard of education.
+Verified Teachers: LearnBlock's verification process guarantees that only qualified and trustworthy tutors are available on the platform, maintaining a high standard of education.
 
-Accessible Worldwide: TutorChain is a global platform, enabling students from different parts of the world to connect with expert teachers regardless of geographical barriers.
+Accessible Worldwide: LearnBlock is a global platform, enabling students from different parts of the world to connect with expert teachers regardless of geographical barriers.
 
 User-Friendly Interface: Our platform is designed with simplicity in mind, making it easy for both students and teachers to navigate and use its features effectively.
 
