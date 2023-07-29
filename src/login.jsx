@@ -15,6 +15,8 @@ function App() {
                     <div className="input-name">Password</div>
                     <input className="input-box"></input>
                 </div>
+                <div className="login-button">Login</div>
+
                 <div className="signup">Sign up</div>
                 </div>
 
