@@ -1,0 +1,33 @@
+package com.rian.learnblock.entity;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+import lombok.Data;
+
+/**
+ * @Author Rian Atri
+ * @Version 1.0
+ */
+@Data
+@Entity
+@Table(name = "User")
+public class User {
+
+    @Id
+    @Column(name = "username")
+    private String id;
+    private boolean verified;
+
+    private boolean status;
+
+    private String fullname;
+
+    private String email;
+
+    private String password;
+
+    private int lastcode;
+
+}
