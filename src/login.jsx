@@ -8,7 +8,7 @@ function App() {
                 <div className="login-container">
                     <div className="title">LearnBlock login</div>
                     <div className="login-input">
-                    <div className="input-name">Email or Username</div>
+                    <div className="input-name">Enter your email</div>
                     <input className="input-box"></input>
                 </div>
                 <div className="login-input">
