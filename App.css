@@ -1,0 +1,90 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #d0e0fe;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(237, 234, 234);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Timepicker{
+  width:50%;
+  display:inline-block;
+  margin-left:20px; /* Adjust the margin as needed */
+
+}
+
+.DateShow {
+  /* Your existing styles for the DateShow container */
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 60px; /* Add spacing between the text and top of the page */
+  margin-left:160px; /* Adjust the margin as needed */
+  margin-bottom: 50px;
+}
+
+.DateShow div {
+  border: 1px solid black; /* Add a border around each date */
+  border-radius: 20px; /* Add rounded corners to the border */
+  padding: 10px; /* Add padding inside the border */
+  margin-bottom: 10px; /* Add spacing between each line */
+  width: 120%; /* Extend the date element to cover the entire width */
+  box-sizing: border-box; /* Include border and padding within the width */
+  background-color: #FFCF00;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.DateElement {
+  /* Your existing styles for the date element container */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.DateElement span {
+  /* Your existing styles for the date text */
+}
+
+.DateElement button {
+  /* Your existing styles for the trash button */
+  margin-right: 10px; /* Adjust the margin as needed */
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.DateShow button {
+  /* Your desired font styles */
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 16px;
+  /* Add any other styles as needed */
+}
