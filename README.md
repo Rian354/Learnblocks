@@ -22,7 +22,7 @@ Accessible Worldwide: LearnBlock is a global platform, enabling students from di
 User-Friendly Interface: Our platform is designed with simplicity in mind, making it easy for both students and teachers to navigate and use its features effectively.
 
 Future Enhancements
-As this project was developed for the Youth Code Foundation Hackathon, there is much room for improvement and future development. Here are some potential enhancements for TutorChain:
+As this project was developed for the Youth Code Foundation Hackathon, there is much room for improvement and future development. Here are some potential enhancements for LearnBlock:
 
 Integration with More Blockchains: Currently, Learnblock uses a custom built blockchain as its underlying blockchain. However, we plan to integrate with other blockchains to offer users more choices and flexibility.
 
