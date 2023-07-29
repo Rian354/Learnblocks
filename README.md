@@ -1,12 +1,12 @@
 # Learnblock - Blockchain-Powered Tutoring Platform
 Backend by: Rian A.
 Frontend by: Jack H. and Ethan P.
-UI/UX and design by: Carrie M.
+UI/UX and design by: Carry Z.
 Introduction
 Learnblock is a revolutionary tutoring platform that leverages the power of blockchain technology to ensure secure credentials and verified teachers. This platform was developed for the Youth Code Foundation Hackathon as our submission. Our goal is to create a transparent and trustworthy environment where students can easily find qualified tutors and teachers can showcase their expertise without the need for traditional third-party verification methods.
 
 How It Works
-Blockchain-based Identity Verification: Teachers and tutors are required to create an account on TutorChain. During the registration process, their identity and credentials are recorded on the blockchain. This ensures that each teacher's information is tamper-proof and remains securely associated with their profile.
+Blockchain-based Identity Verification: Teachers and tutors are required to create an account on LearnBlock. During the registration process, their identity and credentials are recorded on the blockchain. This ensures that each teacher's information is tamper-proof and remains securely associated with their profile.
 
 Transaction Based Credentials: Teachers can input their qualifications, certifications, and educational background, which are then converted into transactions and stored on the blockchain. These transactions serve as immutable records of their credentials, making it easy for potential students to verify their qualifications.
 
